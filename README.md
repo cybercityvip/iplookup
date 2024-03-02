@@ -9,5 +9,5 @@ api used
 
 https://ipapi.co
 
-![Screenshot]([cybercity.vip/archive/ip.png])
+<img src="https://cybercity.vip/archive/ip.png">
 
